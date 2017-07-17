@@ -14,7 +14,7 @@
     ],
     "require":{
             "php":">=5.5",
-            "contao/core": "3.5 - 4.4",
+            "contao/core-bundle": "~4.4",
             "menatwork/contao-multicolumnwizard":"~3.2"
     },
     "extra": {
